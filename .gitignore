@@ -4,6 +4,7 @@
 # محیط مجازی و مدل‌ها (حجیم)
 .venv/
 models/
+assets/fonts/
 
 # داده‌های ساخته‌شده و کش
 indexes/
