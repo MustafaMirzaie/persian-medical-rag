@@ -1,0 +1,29 @@
+# Core
+jupyter
+ipykernel
+python-dotenv
+
+# Ingestion (phase 1)
+pypdf
+beautifulsoup4
+requests
+
+# Chunking & Embedding (phases 2-3)
+langchain-text-splitters
+sentence-transformers
+chromadb
+
+# Sparse & Hybrid (phase 4)
+rank_bm25
+
+# Generation (phase 8)
+openai
+
+# UI (phase 10)
+gradio
+
+# CLIP
+pillow
+
+# Multimodal bonus (phase B3) — فعلاً نصب نکن، بعداً اضافه می‌شود
+# torch با sentence-transformers خودکار نصب می‌شود

@@ -1,0 +1,16 @@
+# Secrets — هرگز نباید commit شود
+.env
+
+# محیط مجازی و مدل‌ها (حجیم)
+.venv/
+models/
+
+# داده‌های ساخته‌شده و کش
+indexes/
+cache/
+data/processed/
+
+# پایتون
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
